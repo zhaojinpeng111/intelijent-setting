@@ -1,5 +1,10 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
   <action id="ContextHelp" />
+  <action id="EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="alt numpad1" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="shift meta f" />
@@ -29,4 +34,5 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="Vcs.UpdateProject" />
 </keymap>
