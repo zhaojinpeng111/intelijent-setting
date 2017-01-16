@@ -5,4 +5,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="switch" value="switch ($ARG$){&#10;    case  $CASE$:&#10;        $END$;&#10;}" description="switch...case..." toReformat="false" toShortenFQNames="true">
+    <variable name="ARG" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CASE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
