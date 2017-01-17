@@ -12,6 +12,18 @@
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
