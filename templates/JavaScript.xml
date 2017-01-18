@@ -1,18 +1,18 @@
 <templateSet group="JavaScript">
-  <template name="if" value="if($ARG$){&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="if" value="if($ARG$){&#10;    $END$&#10;}" description="if..." toReformat="false" toShortenFQNames="true">
     <variable name="ARG" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ifelse" value="if($CONDITION$){&#10;    $CODE$&#10;}else{&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="ifelse" value="if($CONDITION$){&#10;    $CODE$&#10;}else{&#10;    $END$&#10;}" description="if...else..." toReformat="false" toShortenFQNames="true">
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="else" value="else{&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="else" value="else{&#10;    $END$&#10;}" description="else..." toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
