@@ -1,8 +1,8 @@
 <templateSet group="OWN">
   <template name="codeblock" value="//*&#10;$END$&#10;//*/" description="code block annotation" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="TypeScript" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
   <template name="switchCase" value="switch ($ARG$){&#10;    case  $CASE$:&#10;        $END$;&#10;        break;&#10;}" description="switch...case..." toReformat="false" toShortenFQNames="true">
