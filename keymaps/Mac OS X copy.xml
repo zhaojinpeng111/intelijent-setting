@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="ContextHelp" />
   <action id="EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt 1" />
@@ -142,5 +146,11 @@
     <keyboard-shortcut first-keystroke="ctrl meta 9" />
   </action>
   <action id="ToggleFullScreen" />
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="shift meta 1" />
+  </action>
   <action id="Vcs.UpdateProject" />
+  <action id="com.karateca.jstoolbox.sort.SortSelection">
+    <keyboard-shortcut first-keystroke="shift alt 1" />
+  </action>
 </keymap>
