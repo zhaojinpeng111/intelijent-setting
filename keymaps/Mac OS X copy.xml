@@ -153,4 +153,8 @@
   <action id="com.karateca.jstoolbox.sort.SortSelection">
     <keyboard-shortcut first-keystroke="shift alt 1" />
   </action>
+  <action id="com.karateca.jstoolbox.tobrowser.ToBrowserAction">
+    <keyboard-shortcut first-keystroke="shift meta alt g" />
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
 </keymap>
