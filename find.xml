@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'fbe-selfheath'" />
-    <option name="defaultScopeName" value="Project 'fbe-selfheath'" />
-    <option name="SEARCH_SCOPE" value="Project 'fbe-selfheath'" />
+    <option name="customScope" value="File '.../app/service/hms/report/rules/child.js - [fbe-selfheath]'" />
+    <option name="defaultScopeName" value="File '.../app/service/hms/report/rules/child.js - [fbe-selfheath]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/service/hms/report/rules/child.js - [fbe-selfheath]'" />
   </component>
 </application>
