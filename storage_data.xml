@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="redis" />
       <item value="疸" />
       <item value="Deprecation" />
       <item value="Ser" />
