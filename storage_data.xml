@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="curr" />
+      <item value="dangerous" />
+      <item value="dangers" />
+      <item value="vaccine" />
       <item value="redis" />
       <item value="疸" />
       <item value="Deprecation" />
