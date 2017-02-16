@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="budget" />
       <item value="curr" />
       <item value="dangerous" />
       <item value="dangers" />
