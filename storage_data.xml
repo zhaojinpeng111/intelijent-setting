@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="VERIFIED" />
+      <item value="VERIFYING" />
       <item value="budget" />
       <item value="curr" />
       <item value="dangerous" />
