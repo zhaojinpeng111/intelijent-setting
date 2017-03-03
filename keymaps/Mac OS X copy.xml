@@ -69,6 +69,7 @@
     <keyboard-shortcut first-keystroke="shift meta back_space" />
     <keyboard-shortcut first-keystroke="ctrl meta back_space" />
   </action>
+  <action id="MethodHierarchy" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
@@ -168,6 +169,7 @@
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
+    <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="com.karateca.jstoolbox.sort.SortSelection">
