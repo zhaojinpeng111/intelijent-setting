@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="可用" />
+      <item value="avaible" />
       <item value="audit" />
       <item value="Status" />
       <item value="selectable" />
