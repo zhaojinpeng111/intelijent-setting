@@ -1,0 +1,46 @@
+<keymap version="1" name="Mac OS X edit" parent="Mac OS X">
+  <action id="ActivateEventLogToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f9" />
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="alt numpad1" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="Replace" />
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Resume" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift meta 2" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="shift meta 1" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+  <action id="com.karateca.jstoolbox.sort.SortSelection">
+    <keyboard-shortcut first-keystroke="shift alt 1" />
+  </action>
+</keymap>
