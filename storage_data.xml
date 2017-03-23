@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Status" />
+      <item value="change" />
       <item value="EXIST" />
       <item value="可用" />
       <item value="avaible" />
       <item value="audit" />
-      <item value="Status" />
       <item value="selectable" />
       <item value="select" />
       <item value="addition" />
