@@ -1,5 +1,7 @@
 <application>
   <component name="GitToolBoxAppSettings">
     <option name="showStatusWidget" value="false" />
+    <option name="showProjectViewStatusBeforeLocation" value="true" />
+    <option name="projectViewStatusCustomColor" value="true" />
   </component>
 </application>
