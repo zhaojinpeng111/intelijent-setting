@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="items" />
       <item value="message" />
       <item value="Status" />
       <item value="change" />
@@ -11,7 +12,6 @@
       <item value="selectable" />
       <item value="select" />
       <item value="addition" />
-      <item value="items" />
       <item value="checkable" />
       <item value="VERIFIED" />
       <item value="VERIFYING" />
